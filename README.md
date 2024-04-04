@@ -20,6 +20,10 @@ If you're interested in contributing to this project, feel free to fork the repo
     - **CSS:** For styling and layout.
     - **JavaScript:** For generating random words and implementing timer functionality.
 
+## Preview 🖥️
+
+Check out the live preview [here](https://yash-963.github.io/typing_speed_test/).
+
 ## Credits 🙌
 
 This project was created by Yash Gupta. 🌟
